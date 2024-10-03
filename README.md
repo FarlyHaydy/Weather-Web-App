@@ -17,3 +17,5 @@ Website ini dirancang untuk mengecek kondisi cuaca terkini secara detail. Websit
 1. Clone repository ini:
    ```bash
    git clone <url-repository>
+
+2. [Live Demo]( https://farlyhaydy.github.io/Weather-Web-App/)
