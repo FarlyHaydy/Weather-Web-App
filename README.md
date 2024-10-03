@@ -18,4 +18,4 @@ Website ini dirancang untuk mengecek kondisi cuaca terkini secara detail. Websit
    ```bash
    git clone <url-repository>
 
-2. [Live Demo]( https://farlyhaydy.github.io/Weather-Web-App/)
+2. [Live Demo]( https://farlyhaydy.github.io/Weather-Web-App//)
