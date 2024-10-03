@@ -23,7 +23,7 @@ hr{
     margin-bottom: 10px;
 }
 .header{
-    position: sticky;
+    position: static;
     top: 0;
     background-color: var(--bg-color1);
     display: flex;
