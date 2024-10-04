@@ -13,9 +13,14 @@ Website ini dirancang untuk mengecek kondisi cuaca terkini secara detail. Websit
 - **CSS**: Untuk tata letak dan gaya.
 - **JavaScript**: Untuk mengintegrasikan API OpenWeatherMap dan menangani fungsionalitas dinamis.
 
+## Kekurangan
+- Masih belum responsif, jadi apabila mencoba di mobile/hp bentuknya masih berantakan
+
+
 ## Cara Menggunakan
 1. Clone repository ini:
    ```bash
    git clone <url-repository>
 
 2. [Live Demo]( https://farlyhaydy.github.io/Weather-Web-App//)
+
